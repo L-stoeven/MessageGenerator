@@ -3,7 +3,7 @@ function generateRandomNumber(num) {
   }
   
   const feelings = {
-    syndoms: ['hungry', 'tired', 'painful'],
+    syndoms: ['hungry', 'tired', 'happy', 'angry'],
     advice: ['eat', 'sleep', 'take a shit']
   }
   
